@@ -26,3 +26,10 @@ A: To solve high variance problem, you can try
 "Bias variance tradeoff" exits in old days. In modern Deep Learning, getting a bigger NN will almost alwyas reduce bias without hurting variance. 
 
 But if the image is very blurry (e.g. so blurry even human can't do a well task, the base error is too high), you may not get very good training result even if the NN is very big.   
+
+## Regularizing your NN
+![](ImageNotes/Week1_2.png)
+Note: In practice, L2 is the most used one.
+![](ImageNotes/Week1_3.png)
+
+
