@@ -17,6 +17,7 @@ A: Try the following methods to get rid of the bias problem
 
 
 Q: Once you reduce the bias to acceptable amount, do you have high variance problem?
+
 A: To solve high variance problem, you can try
 * Get more data
 * Try regularization
