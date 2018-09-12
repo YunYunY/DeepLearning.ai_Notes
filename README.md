@@ -13,6 +13,7 @@ This repository contains my summary notes of [deeplearning.ai](https://www.deepl
 I hope you enjoy this class as I did.
 
 Thanks for these beautiful notes:
+
 https://github.com/mbadry1/DeepLearning.ai-Summary
 https://blog.csdn.net/Koala_Tree/article/details/79913655
 https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
