@@ -18,3 +18,10 @@ Note: The algorithm development makes NN runs faster. e.g. Switching from Sigmoi
 ## Week 2 Neural Networks Basics
 ![](ImageNotes/Week2_1.png)
 
+## Week 3 Shallow Neural Networks
+![](ImageNotes/Week3_1.png)
+
+Note: Use small values to initialize the weights work good when using sigmoid or tanh as activation function. But won't make difference for ReLU and Leaky ReLU since the slope is always 1 when z>0.
+
+## Week 4 Deep Neural Network
+![](ImageNotes/Week4_1.png)
