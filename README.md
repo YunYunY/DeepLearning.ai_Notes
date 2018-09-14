@@ -10,7 +10,7 @@ This repository contains my summary notes of [deeplearning.ai](https://www.deepl
 * Convolutional Neural Networks
 * Sequence Models
 
-I hope you enjoy this class as I do.
+I am still working on this series. Any comments about this notebook are welcome. I hope you enjoy this class as I do.
 
 Thanks for these beautiful notes:
 
