@@ -38,6 +38,8 @@ Note: In practice, L2 is the most used one.
 ![](ImageNotes/Week1_4.png)
 
 ## Week 2 Optimization algorithms
+![](ImageNotes/Week1_5.png)
+
 
 
 
