@@ -29,7 +29,15 @@ But if the image is very blurry (e.g. so blurry even human can't do a well task,
 
 ## Regularizing your NN
 ![](ImageNotes/Week1_2.png)
+
 Note: In practice, L2 is the most used one.
+
 ![](ImageNotes/Week1_3.png)
+
+## Setting up your optimization problem 
+![](ImageNotes/Week1_4.png)
+
+## Week 1 Optimization algorithms
+
 
 
