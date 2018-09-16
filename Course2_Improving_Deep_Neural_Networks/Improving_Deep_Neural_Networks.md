@@ -37,7 +37,7 @@ Note: In practice, L2 is the most used one.
 ## Setting up your optimization problem 
 ![](ImageNotes/Week1_4.png)
 
-## Week 1 Optimization algorithms
+## Week 2 Optimization algorithms
 
 
 
