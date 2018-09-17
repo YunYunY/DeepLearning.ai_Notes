@@ -41,6 +41,7 @@ Note: In practice, L2 is the most used one.
 ![](ImageNotes/Week1_5.png)
 
 ## Week 3 Hyperparameter tuning, Batch Normalization and Programming Frameworks
+![](ImageNotes/Week1_6.png)
 
 
 
